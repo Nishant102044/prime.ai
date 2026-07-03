@@ -1,0 +1,5 @@
+Insight 2: Trading Activity
+
+Evidence: trade_frequency.png + trade_frequency.csv
+
+The number of trades was higher during Greed days compared to Fear days, suggesting that traders were more active when market sentiment was positive.

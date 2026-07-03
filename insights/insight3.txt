@@ -1,0 +1,5 @@
+Insight 3: Position Size
+
+Evidence: position_size.png + position_size.csv
+
+The average trade size (Size USD) increased during Greed days, showing that traders were willing to take larger positions when market confidence was higher.

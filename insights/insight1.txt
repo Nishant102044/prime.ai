@@ -1,0 +1,5 @@
+Market Sentiment vs Performance
+
+Evidence: average_pnl.png + pnl_analysis.csv
+
+Traders earned a higher average Closed PnL on Greed days than on Fear days, indicating that overall trading performance improved during bullish market sentiment.

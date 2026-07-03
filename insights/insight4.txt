@@ -1,0 +1,5 @@
+Long/Short Bias
+
+Evidence: long_short_bias.png
+
+Long positions were opened more frequently than short positions during Greed periods, indicating a bullish trading bias.

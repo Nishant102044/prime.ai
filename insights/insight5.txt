@@ -1,0 +1,5 @@
+Insight 5: Trader Segmentation
+
+Evidence: frequent_vs_infrequent.png or consistent_winners.png
+
+Frequent traders represented a larger share of profitable accounts than infrequent traders, suggesting that consistent market participation was associated with better performance.
